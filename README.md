@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anshu Sahu</h1>
-<h3 align="center">B.Tech (CSE Core) Student | C++ & Web Developer | UI/UX Enthusiast</h3>
+<h1 align=>Hi 👋, I'm Anshu Sahu</h1>
+<h3 align=>B.Tech (CSE Core) Student | C++ & Web Developer | UI/UX Enthusiast</h3>
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshusahu2007&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
@@ -33,7 +33,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=anshusahu2007&show_icons=true&theme=tokyonight" alt="Anshu's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusahu2007&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
