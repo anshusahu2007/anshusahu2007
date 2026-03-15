@@ -4,7 +4,7 @@
 ---
 
 - 🎓 I’m currently pursuing **B.Tech in Computer Science (Core)** at **SAGE University, Indore**
-- 💻 I love working with **C++, C, HTML, CSS** and also exploring **UI/UX design**
+- 💻 I love working with **C++, C, JAVA , HTML, CSS** and also exploring **UI/UX design**
 - 🚀 I’m working on personal projects to improve my **full-stack and design skills**
 - 🌱 Currently learning **JavaScript**, **DSA**, and modern web technologies
 - 📫 How to reach me: **anshusahu2007@gmail.com**
